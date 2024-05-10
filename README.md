@@ -14,6 +14,10 @@ Note: You need Python 3.10 or above.
     ```sh
     source path-to-venv/bin/activate
     ```
+    On Windows:
+    ```sh
+    .\venv\Scripts\activate
+    ```
 
 3. Install requirements:
     ```sh
